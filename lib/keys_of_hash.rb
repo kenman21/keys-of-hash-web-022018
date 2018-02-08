@@ -4,5 +4,6 @@ class Hash
       if places == arguments
         animals
       end 
+    end
   end
 end
